@@ -46,3 +46,12 @@ The job of the operating system is to create good abstractions and then implemen
 - The **X Window System ( x11 )** provides the foundational framework for graphical interfaces on Linux, though it is being gradually replaced by Wayland.
 - **GNOME ( GNU Network Object Model Environment )** is perfect for users who prefer a minimalistic, easy-to-use desktop environment with a focus on productivity.
 - **KDE Plasma** offers a rich, customizable environment, ideal for those who want a traditional desktop feel with the ability to tweak every aspect of the UI.
+
+
+The first true digital computer was designed by the English mathematician
+Charles Babbage (1792–1871). Although Babbage spent most of his life and fortune trying to build his ‘‘analytical engine,’’ he nev er got it working properly because it was purely mechanical, and the technology of his day could not produce
+the required wheels, gears, and cogs to the high precision that he needed. Needless
+to say, the analytical engine did not have an operating system.
+As an interesting historical aside, Babbage realized that he would need software for his analytical engine, so he hired a young woman named Ada Lovelace,
+who was the daughter of the famed British poet Lord Byron, as the world’s first
+programmer. The programming language **Ada**® is named after her.
