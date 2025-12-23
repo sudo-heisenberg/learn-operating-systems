@@ -31,3 +31,9 @@ Operating systems
 6. Linux - closely modeled on UNIX & highly compatible with it
 7. OS X - modeled on UNIX
 8. MINIX - modeled on UNIX
+
+
+
+The architecture of a computer ( instruction set, memory organization, I/O, and bus structure ) at the machine language level is primitive and awkward to program, specially I/O.
+
+SATA Hard disks - Serial ATA
