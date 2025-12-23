@@ -37,3 +37,7 @@ Operating systems
 The architecture of a computer ( instruction set, memory organization, I/O, and bus structure ) at the machine language level is primitive and awkward to program, specially I/O.
 
 SATA Hard disks - Serial ATA
+
+
+The job of the operating system is to create good abstractions and then implement
+and manage the abstract objects thus created. For e.g - FILES
