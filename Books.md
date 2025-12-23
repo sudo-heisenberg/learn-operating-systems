@@ -10,6 +10,5 @@ botnets & malwares
 - Most computers have two modes
   - User mode ( The rest of the softwares run in user mode where they have access to a certain subset of machine instructions - any instruction that caffect the control of the machine i.e. I/O is forbidded to the user mode )
   - Kernel mode ( The OS runs in **kernel mode or supervisor mode** where it has complete access to all the hardware and can execute any instruction the machine is capable of executing )
- 
 
-
+<img width="754" height="459" alt="Screenshot 2025-12-23 at 10 41 58 AM" src="https://github.com/user-attachments/assets/a3e951ab-a588-4eba-911f-1a43b05790da" />
