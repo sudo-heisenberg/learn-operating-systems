@@ -20,3 +20,14 @@ botnets & malwares
 Some interesting facts about OS
 - Linux or Windows is of the order of 5 million lines of code. ( Which is only for the part that runs in the kernel )
 - When essential shared libraries are included, windows is over 70 million lines of code. ( this excludes basic application softwares like windows explorer, windows media player )
+
+
+Operating systems
+1. Windows 95/98/Me
+2. Windows NT/2000/XP/Vista/Windows 7
+3. System V
+4. Solaris
+5. FreeBSD
+6. Linux - closely modeled on UNIX & highly compatible with it
+7. OS X - modeled on UNIX
+8. MINIX - modeled on UNIX
