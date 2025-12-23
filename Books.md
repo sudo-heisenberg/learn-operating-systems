@@ -12,3 +12,11 @@ botnets & malwares
   - Kernel mode ( The OS runs in **kernel mode or supervisor mode** where it has complete access to all the hardware and can execute any instruction the machine is capable of executing )
 
 <img width="754" height="459" alt="Screenshot 2025-12-23 at 10 41 58 AM" src="https://github.com/user-attachments/assets/a3e951ab-a588-4eba-911f-1a43b05790da" />
+
+<br>
+<br>
+<br>
+
+Some interesting facts about OS
+- Linux or Windows is of the order of 5 million lines of code. ( Which is only for the part that runs in the kernel )
+- When essential shared libraries are included, windows is over 70 million lines of code. ( this excludes basic application softwares like windows explorer, windows media player )
