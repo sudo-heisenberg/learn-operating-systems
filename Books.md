@@ -33,11 +33,16 @@ Operating systems
 8. MINIX - modeled on UNIX
 
 
-
 The architecture of a computer ( instruction set, memory organization, I/O, and bus structure ) at the machine language level is primitive and awkward to program, specially I/O.
 
 SATA Hard disks - Serial ATA
 
+The job of the operating system is to create good abstractions and then implement and manage the abstract objects thus created. For e.g - FILES
 
-The job of the operating system is to create good abstractions and then implement
-and manage the abstract objects thus created. For e.g - FILES
+
+
+
+#### In Linux, a desktop environment provides a graphical interface to interact with the system, including window management, system controls, and user applications. 
+- The **X Window System ( x11 )** provides the foundational framework for graphical interfaces on Linux, though it is being gradually replaced by Wayland.
+- **GNOME ( GNU Network Object Model Environment )** is perfect for users who prefer a minimalistic, easy-to-use desktop environment with a focus on productivity.
+- **KDE Plasma** offers a rich, customizable environment, ideal for those who want a traditional desktop feel with the ability to tweak every aspect of the UI.
